@@ -1,0 +1,15 @@
+--2019-08-25 15:56:08--  http://mastershe.ir/api/v1/get_download_link?course_id=7
+Resolving mastershe.ir (mastershe.ir)... 89.32.248.82
+Connecting to mastershe.ir (mastershe.ir)|89.32.248.82|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://mastershe.ir/login [following]
+--2019-08-25 15:56:09--  http://mastershe.ir/login
+Connecting to mastershe.ir (mastershe.ir)|89.32.248.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘get_download_link?course_id=7’
+
+get_download_link?course_id=7             [<=>                                                                     ]       0  --.-KB/s               get_download_link?course_id=7             [ <=>                                                                    ]  10.43K  --.-KB/s    in 0.01s   
+
+2019-08-25 15:56:09 (874 KB/s) - ‘get_download_link?course_id=7’ saved [10681]
+
